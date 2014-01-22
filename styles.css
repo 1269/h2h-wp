@@ -121,6 +121,34 @@ nav a {
 #title h2{
 	line-height: 30px;
 }
+.pageContent {
+	width: 700px;
+	margin: 0px 10px 40px;
+	float: left;
+	display: inline;
+}
+.pageContent h1 {
+	font-family: "Whitney-Semibold", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 14px;
+	color: #000333
+}
+.pageContent p {
+	font-family: "Whitney-Light", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	line-height: 24px;
+	color: #333333;
+	margin-bottom: 35px;
+}
+.pageContent blockquote {
+	float: left;
+	width: 140px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	font-style: italic;
+	line-height: 24px;
+	color: #666666;
+	font-family: Georgia, Cambria, "Times", Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+	font-size: 18px;
+}
 
 #featuredPosts {
 	width: 700px;
