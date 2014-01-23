@@ -1,4 +1,9 @@
-<?php get_header(); ?>
+<?php
+/*
+Template Name: Single Page Template
+*/
+?>
+<?php get_header('reg'); ?>
 	<div id="content">
 		<div id="title">
 		<h1>Hand to Hand Kajukenbo</h1>
